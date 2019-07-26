@@ -1,3 +1,7 @@
 import React from "react"
 
-export default () => <div>Hello world!</div>
+export default () => (
+  <div>
+    <h1 style={{ fontFamily: "Lato" }}>Hello world!</h1>
+  </div>
+)
